@@ -1,0 +1,22 @@
+body {
+    background: #404040;
+    color: white;
+    margin: auto;
+    font-family: sans-serif;
+}
+h1{
+    border-bottom: 1px solid bisque;
+    text-align: center;
+    font-size: 40px !important;
+    margin:10px !important;
+    padding:10px !important;
+}
+p{
+    line-height:1.6;
+    font-size:20px;
+}
+
+a.link {
+    color: rgb(59, 130, 246) !important;
+    text-decoration: underline !important;
+}
